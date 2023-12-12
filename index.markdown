@@ -36,7 +36,7 @@ My research interest is to better understand the individual, structural and ecos
 This research draws from the intersection of several theoretical lenses including: Infrastructure Studies, Foraging Theory, Feminism and the effects on power imbalances on the development of data maps.
 
 <p align="center">
-<img src="/images/picture1.png" width="50%" alt="Theoretical Lenses" />
+<img src="/images/picture2.png" width="50%" alt="Theoretical Lenses" />
 </p>
 
 ## **Other Interests**
