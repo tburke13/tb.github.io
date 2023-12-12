@@ -23,7 +23,7 @@ email: tburke13@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   researching the digital divide
 baseurl: "tburke13.gitbub.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "irenerogan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  tburke13
 
