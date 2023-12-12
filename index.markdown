@@ -16,7 +16,7 @@ Hello! My name is **Tara Burke**. I work at the University of Maryland doing Res
 - Research development and practice professional
 - PhD student in Information Studies (part-time) 
 - Fundraiser (past)
-- Math tutor (5th grade)
+- Math tutor (for a 6th grader)
 
 ## **Research**
 **Overview** Equity advocacy and emancipation can only be waged and won by those actively and ubiquitously engaged in digital places.  Digital divide research is so needed because living without high-quality residential internet access makes life literally banjaxed. When there is no access, its hard to advocate for oneself.  Better understanding root causes and hyperlocal conditions, will enable us to apply “sticky” solutions that last and meet community needs.  
