@@ -4,22 +4,26 @@ title: Research
 permalink: /research/
 ---
 
-## Research Statement
-My broad research interests involve the intersection of machine learning and accessibility. More specifically, facial expressions are a core part of American Sign Language (ASL), but facial expression recognition technologies for ASL are very immature. I am interested in developing diverse and inclusive datasets to ensure that these technologies empower the Deaf community rather than discriminate against them. 
+## Digital Divide
+My research agenda is to better understand the individual, structural and ecosystem factors contributing to the (residential) digital divide and in the long-term, develop socio-technical solutions to eliminate affordability, access, and adoption issues and reconstitute equitable governance models that result in ubiquitous digital access.
 
-## Patents
-[**Method and apparatus to accurately interpret facial expressions in American Sign Language**](https://patents.google.com/patent/US10679042B2/)  
-Irene Rogan Shaffer  
-US Patent No. 10679042, issued June 2020. 
+Below are work products that exemplify my current thinking and understanding of this complex and pernicious problem.
 
-## Publications
-[**PerfGuard: Deploying ML-for-Systems without Performance Regressions**](/papers/perfguard.pdf)  
-H M Sajjad Hossain, Lucas Rosenblatt, Gilbert Antonius, Irene Shaffer, Remmelt Ammerlaan, Abhishek Roy, Markus Weimer, Hiren Patel, Marc Friedman, Shi Qiao, Peter Orenberg, Soundarajan Srinivasan, Vijay Ramani, Alekh Jindal  
-MLOps Systems 2020, Austin, USA.
+## Theory Background
+These papers were produced as part of my PhD coursework.  While I have developed skills in stakeholder management from years of work, I am still learning the theoretical and epistomological underpinnings of the digital divide. 
+- [Community-engaged, digital equity papping: epistomology and theory paper](/papers/801.pdf)
+- [Digital equity topical bibliography](/papers/bib.pdf)  
 
-[**Exploring the Performance of Facial Expression Recognition Technologies on Deaf Adults October 2018 and Their Children**](https://doi.org/10.1145/3234695.3240986)  
-Irene Rogan Shaffer  
-ASSETS '18 Student Research Competition (paper and poster) Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility, October 2018, Pages 474–476.
+## Funded Work
+I have been very fortunate to have received two awards to support this work.  Below is a portion of one proposal detailing the rationale and research plan/activies.
+- Award #1: Maryland Office of Statewide Broadband: MD-Digital Incluson Grant program ($95K, September 2022 -June 2024)
+- Award #2: University of Maryland [Grand Challenge Individual Project](https://research.umd.edu/digital-equity-mapping) ($150K, March 2023 - August 2026)
 
-See my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=4TP-HQkAAAAJ) for a complete list.
+Also linked is a presentation slide deck with images of this rationale.
+- Digital divide and the relationship to [structural and historical inequities presentation](/papers/DD-ppt.pdf)
+
+
+
+
+
 
