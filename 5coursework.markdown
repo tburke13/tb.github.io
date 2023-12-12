@@ -8,5 +8,5 @@ permalink: /coursework/
 - The table below shows my full research (and life balance) plan.  Since I am actively engaged in my dissertation research (per the two funded awards), I may amend the courses of interest to better prepare me to handle challenges I am finding on the ground.
 
 <p align="center">
-<img src="/images/course schedule.jpg" width="80%" alt="Course schedule" />
+<img src="/images/coursescheduleT.jpg" width="80%" alt="research and course plan" />
 </p>
