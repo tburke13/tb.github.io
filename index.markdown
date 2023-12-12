@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Hello! My name is Tara Burke. I work at the University of Maryland doing Research Development. I also study digital equity problems as a part-time PhD student (~2027!) via community engaged research methods. The digital divide is the gap between people who have access to broadband internet, computers, and knowledge of how to use both, and those who do not. In urban neighborhoods digital divides tend to reinforce pre-existing social, racial, and economic divides and exacerbate existing inequalities, like access to education and health care.
+Hello! My name is **Tara Burke**. I work at the University of Maryland doing Research Development. I also study digital equity problems as a part-time PhD student (~2027!) via community engaged research methods. The digital divide is the gap between people who have access to broadband internet, computers, and knowledge of how to use both, and those who do not. In urban neighborhoods digital divides tend to reinforce pre-existing social, racial, and economic divides and exacerbate existing inequalities, like access to education and health care.
 
 
 <p align="center">
@@ -39,7 +39,7 @@ This research draws from the intersection of several theoretical lenses includin
 <img src="/images/Picture.jpg" width="50%" alt="Theoretical Lenses" />
 </p>
 
-## Other Topics
+## Other Interests
 - Zoology and ethology
 - Wild animal and natural world rights
 - Banking systems, underbanked populations, and the inherent fragility of the American model
